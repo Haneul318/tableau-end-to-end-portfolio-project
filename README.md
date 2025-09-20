@@ -80,7 +80,3 @@ Key design principles:
 - [Interactive Dashboard on Tableau Public]([YOUR_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/app/profile/haneul.kim8784/viz/AirwayReviewDashboard/Dashboard1))  
 - [Guided Video](https://youtu.be/KlAKAarfLRQ?si=356kAhbicycHIf6T)
 
----
-
-## 📸 Preview
-![Dashboard Preview](images/dashboard.png)
