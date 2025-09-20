@@ -4,7 +4,7 @@ Interactive Tableau dashboard analyzing **British Airways customer reviews**.
 This project was created as an **end-to-end portfolio project** to demonstrate data visualization, interactivity, and storytelling in Tableau.
 
 
-![Dashboard Preview](image/Dashboard 1.png)
+![Dashboard Preview](dashboard.png)
 
 ---
 
